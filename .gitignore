@@ -15,3 +15,8 @@ terraform.rc
 Thumbs.db
 .vscode/
 .idea/
+__pycache__/
+*.zip
+*.exe
+*.log
+.env
